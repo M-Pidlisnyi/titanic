@@ -43,3 +43,6 @@ df.drop("Embarked", axis = 1, inplace=True)
 df.info()
 
 #--------------------------------
+
+
+
